@@ -51,8 +51,18 @@ The GRU model outperformed several traditional classifiers (e.g., SVM, Random Fo
 - Cognitive and behavioral research tools
 
 ---
+## 🤝 Contributors
+
+This project was developed collaboratively during undergraduate research.
+
+**Team Members:**
+- Sudhansh Chopda  
+- Tanay Naik  
+- Amritmay Biswas  
+- Devendra Kumar Devangan
 
 ## 📝 Citation
 
 If you're referencing or building upon this work in academic or personal projects, please consider citing the authors or linking back to this repository.
+
 
